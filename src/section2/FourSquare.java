@@ -26,7 +26,7 @@ public class FourSquare {
 		}
 	}
 
-	
+	 
 	void drawSquare() {
 		JOptionPane.showMessageDialog(null, "yay! you called the drawSquare() method!");
 		/* 3. Fill in the code to draw a square inside the method below. */
